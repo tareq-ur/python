@@ -98,3 +98,18 @@ print('tareq' not in "sakil rahman tareq")
 
 Bill = int (input("Enter your bill: "))
 print (Bill + 10%( Bill) )
+
+
+# touples 
+
+agree = int (input("Insert you decision: "))
+
+Free = ('foods','warter','gas','electracity','service','hospital cost')
+cost = ('tranformasion','tution fee','self cost',)
+
+total = cost 
+
+if 0 < agree :
+    print(Free)
+else:
+    print(cost)
